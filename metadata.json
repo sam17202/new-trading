@@ -1,0 +1,5 @@
+{
+  "name": "NIFTY VWAP Breakout Learner",
+  "description": "An interactive trading education platform focused on a professional NIFTY 10-minute VWAP breakout strategy with AI-driven rule interpretation and historical backtesting.",
+  "requestFramePermissions": []
+}
